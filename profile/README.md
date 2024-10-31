@@ -1,3 +1,3 @@
 # Scorpiones
 
-[Scorpiones](scorpiones.org) is an open source project aimed at helping the identification of scorpions for people all around the world.
+[Scorpiones](scorpiones.org) is an open source project aimed at helping identification and work on scorpions for people and researchers all around the world.
